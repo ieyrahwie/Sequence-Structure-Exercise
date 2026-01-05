@@ -1,0 +1,31 @@
+Question 1 – Simple Decision (Basic if)
+Scenario:
+A program asks the user to enter their age.
+If the age entered is 18 or above, display:
+"You are eligible to vote."
+
+Question 2 – Condition Checking (Basic if)
+Scenario:
+A shop offers a discount for customers who spend more than RM100.
+If total purchase is greater than 100, display:
+"You get a discount!"
+
+Question 3 – Pass or Fail (if-else)
+Scenario:
+If score is 50 or above, display "Pass", otherwise display "Fail".
+
+Question 4 – Grade Classification (Nested if-else)
+Scenario:
+80 and above : Grade A
+60–79       : Grade B
+50–59       : Grade C
+Below 50    : Fail
+
+Question 5 – Access Control System (Nested if-else)
+Scenario:
+If user is staff:
+    If access level >= 5 → Access granted
+    Else → Access denied: insufficient level
+If not staff → Access denied: staff only
+
+
