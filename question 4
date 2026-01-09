@@ -1,0 +1,9 @@
+grade= int(input("enter your result:"))
+if grade >= 80:
+   print("Congrats,you're categorise in Grade A")
+elif grade >=60:
+   print("Amazing,you're categorise in Grade B")
+elif grade >=50:
+   print("Keep up the effort,you're categorise in Grade C")
+else:
+   print("FAIL")
