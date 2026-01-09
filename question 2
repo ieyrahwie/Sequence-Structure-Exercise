@@ -1,0 +1,5 @@
+total_spend= float(input("user total spend:"))
+if total_spend >=100:
+   print("congrats, you get a discount!!")
+else:
+   print("awhh, you didn't get any discount for your purchase")
