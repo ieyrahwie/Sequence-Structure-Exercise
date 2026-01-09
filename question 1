@@ -1,0 +1,5 @@
+age= int(input("user age:"))
+if age  >= 18:
+   print("yeayy,you are eligible to vote!!")
+else:
+   print("sorry, you're not reached the minimum terms of voting:(")
