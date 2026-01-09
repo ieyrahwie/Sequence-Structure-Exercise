@@ -1,0 +1,13 @@
+access= input("are you a staff or not?:")
+if access == "staff":
+   print("welcome again")
+elif access!= "staff":
+   print("access denied:staff only")
+   
+   exit()
+   
+level= int(input("which level:"))
+if level >=5:
+   print("access granted")
+else:
+   print("access denied:insufficient level")
