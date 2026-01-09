@@ -1,0 +1,6 @@
+subject= input("subject:")
+mark= float(input("marks that you get from the subject:"))
+if mark>= 50:
+   print("congrats,you PASS the subject!!")
+else:
+   print("I'm sorry, but you FAIL the subject:((")
